@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/linksggg/"}
 ---
 
-kjk
 
+[[aboit\|aboit]]
