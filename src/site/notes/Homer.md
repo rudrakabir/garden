@@ -5,3 +5,6 @@
 yolo mofo
 
 [[linksggg\|linksggg]]
+
+[[Link to a blog\|Link to a blog]]
+
