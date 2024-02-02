@@ -8,4 +8,11 @@ im trying to find some way to get comments on here but until i do that just emai
 [[1\|1]]
 [[2\|2]]
 [[3\|3]]
+[[the problem might not be capitalism, it might be marketing\|the problem might not be capitalism, it might be marketing]]
+[[4\|4]]
+[[we know too much, and overfit to the memes\|we know too much, and overfit to the memes]]
+[[building in ahmedabad\|building in ahmedabad]]
+[[personal stuff\|personal stuff]]
+[[dhanji1\|dhanji1]]
+
 
